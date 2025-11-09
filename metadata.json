@@ -1,0 +1,5 @@
+{
+  "name": "Stockology",
+  "description": "An AI-powered application that provides in-depth fundamental and technical analysis for global stocks, offering buy, sell, or hold recommendations to guide your investment decisions.",
+  "requestFramePermissions": []
+}
